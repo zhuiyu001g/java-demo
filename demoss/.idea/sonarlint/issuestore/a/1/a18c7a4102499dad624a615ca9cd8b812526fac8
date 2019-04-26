@@ -1,0 +1,9 @@
+
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(°–ŒÑùÿÿÿÿ8”ÿì-
+rsquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÂçùùÿÿÿÿ8®ò-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ùÆ¢ôùÿÿÿÿ8”ÿì-
+Fsquid:S16049"(Make this anonymous inner class a lambda(šÚœ8”ÿì-
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì–Ö¼-
+tsquid:S1192+"QDefine a constant instead of duplicating this literal "TransactionTopic" 3 times.(ÎÈ×ùÿÿÿÿ8 ÖÂ-

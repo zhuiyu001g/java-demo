@@ -1,0 +1,8 @@
+
+fsquid:UselessImportCheck"=Remove this unused import 'com.example.demo.entity.UserInfo'.(‰ã¢‡8æÍİó£-
+usquid:UselessImportCheck"LRemove this unused import 'com.example.demo.respository.CardInfoRepository'.(Ã×«õ8öèÚó£-
+zsquid:UselessImportCheck"QRemove this unused import 'com.example.demo.transaction.TransactionExecuterImpl'.(üàß„8öèÚó£-
+psquid:UselessImportCheck"BRemove this unused import 'org.apache.poi.ss.formula.functions.T'.(‚å×‘şÿÿÿÿ8öèÚó£-
+squid:UselessImportCheck"VRemove this unused import 'com.example.demo.transaction.TransactionCheckListenerImpl'.(§šÓÅ8öèÚó£-
+€squid:UselessImportCheck"WRemove this unused import 'com.alibaba.rocketmq.client.producer.TransactionMQProducer'.(“…Æ‰8öèÚó£-
+ƒsquid:UselessImportCheck"ZRemove this unused import 'com.alibaba.rocketmq.client.producer.TransactionCheckListener'.(Çô 8öèÚó£-

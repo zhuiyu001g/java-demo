@@ -1,0 +1,5 @@
+
+usquid:UselessImportCheck"LRemove this unused import 'com.sun.xml.internal.ws.developer.Serialization'.(–Ê¾´8¼Á¿÷£-
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ºçÊ¢¤-
+xsquid:S00116"VRename this field "ser_info_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÏé—øÿÿÿÿ8ªòÇú£-
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(–Ê¾´8¡‰¿÷£-
