@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/gitck.iml" filepath="$PROJECT_DIR$/.idea/gitck.iml" />
       <module fileurl="file://$PROJECT_DIR$/micorservicecloud/micorservicecloud.iml" filepath="$PROJECT_DIR$/micorservicecloud/micorservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservice-eureka-7001/microservice-eureka-7001.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservice-eureka-7001/microservice-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservice-eureka-7002/microservice-eureka-7002.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservice-eureka-7002/microservice-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservice-eureka-7003/microservice-eureka-7003.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservice-eureka-7003/microservice-eureka-7003.iml" />
       <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservicecloud-api/microservicecloud-api.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservicecloud-api/microservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservicecloud-consumer-dept-80/microservicecloud-consumer-dept-80.iml" />
       <module fileurl="file://$PROJECT_DIR$/micorservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/micorservicecloud/microservicecloud-provider-dept-8001/microservicecloud-provider-dept-8001.iml" />
     </modules>
   </component>

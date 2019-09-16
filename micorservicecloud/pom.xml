@@ -10,6 +10,10 @@
     <modules>
         <module>microservicecloud-api</module>
         <module>microservicecloud-provider-dept-8001</module>
+        <module>microservicecloud-consumer-dept-80</module>
+        <module>microservice-eureka-7001</module>
+        <module>microservice-eureka-7002</module>
+        <module>microservice-eureka-7003</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -68,6 +72,27 @@
                 <artifactId>log4j</artifactId>
                 <version>${log4j.version}</version>
             </dependency>
+
         </dependencies>
     </dependencyManagement>
+    <build>
+        <finalName>microservicecloud</finalName>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <delimiters>
+                        <delimit>@</delimit>
+                    </delimiters>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
